@@ -6,12 +6,19 @@
     background-color: silver;
 
 }
-.box{
+.caixa{
     width: 300px;
     background-color: black;
     color: whitesmoke;
     padding: 15%;
     border-radius: 10px;
     text-align: center;
+
+}
+img {
+    max-width: 55%;
+    max-height: 55%;
+    width: auto;
+    height: auto;
 
 }
